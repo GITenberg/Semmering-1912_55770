@@ -1,0 +1,28 @@
+_repo: Semmering-1912_55770
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Altenberg, Peter
+    aliases:
+    - Englaender, Richard
+    - Englander, Richard
+    - Engländer, Richard
+    birthdate: 1859
+    deathdate: 1919
+    gutenberg_agent_id: '46865'
+    url: http://www.gutenberg.org/2009/agents/46865
+description: ''
+gutenberg_issued: '2017-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55770'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: '"Semmering 1912"'
+url: http://www.gutenberg.org/ebooks/55770
